@@ -1,0 +1,1 @@
+My first CLI with a Terminal User Interface in rust using ratatui
